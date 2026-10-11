@@ -12,6 +12,7 @@ Most AI website output fails in one of two directions. It is either well behaved
 [![MIT](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE)
 [![Agent skill](https://img.shields.io/badge/agent-skill-3b82f6.svg)](plugins/nateherk-design/skills/scroll-craft/SKILL.md)
 [![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-plugin-d97757.svg)](https://code.claude.com/docs/en/plugins)
+[![Gaia Skill: Scroll Craft](https://gaiaskilltree.com/badges/_assets/nateherkai/scroll-craft.svg?repo=nateherkai/scroll-craft)](https://gaiaskilltree.com/named/#explorer/nateherkai/scroll-craft)
 
 ---
 
